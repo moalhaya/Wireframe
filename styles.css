@@ -1,0 +1,75 @@
+
+
+.outerBox {
+  width: 100%;
+}
+
+.innerBox {
+  padding:15px;
+  margin: 8px;
+  border: 5px solid green;
+}
+div{
+  width: 200px;
+  border: 8px solid green;
+  padding: 25px;
+  margin:5px;
+}
+.red{
+    
+    color:black;
+    width:100px;
+    height:10px;
+    text-align:center;
+    border:5px solid black;  
+}
+.blue{
+    color:black;
+    width:80px;
+    height:10px;
+    text-align:center;
+    border:5px solid black; }
+   .outerBox { 
+     display: flex; 
+justify-content: center; 
+}
+.yellow{
+    color:black;
+    width:80px;
+    height:10px;
+    text-align:center;
+    border:5px solid black; }
+   .outerBox { 
+     display: flex; 
+justify-content: center; 
+}
+.orange{
+    
+    width:80px;
+    height:10px;
+    text-align:center;
+    border:5px solid black; }
+   .outerBox { 
+     display: flex; 
+justify-content: center; 
+}
+.gray{
+    width:80px;
+    height:10px;
+    text-align:center;
+    border:5px solid black; }
+   .outerBox { 
+     display: flex; 
+justify-content: center; 
+}
+
+
+
+
+
+
+
+
+
+
+
